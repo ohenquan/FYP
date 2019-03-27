@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "606290169749",
+    "firebase_url": "https://fyp4-68372.firebaseio.com",
+    "project_id": "fyp4-68372",
+    "storage_bucket": "fyp4-68372.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606290169749:android:e2279ef4a35756fd",
+        "android_client_info": {
+          "package_name": "com.example.enquan.bikesharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606290169749-j343kvoqgu4b4cg2899vkeggp8hpsf7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWSS9Cv9UsiNOz6rlyPQqG7LgM04Vftqk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

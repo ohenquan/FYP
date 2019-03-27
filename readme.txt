@@ -20,3 +20,5 @@ Running the Arduino for Parking Lot Beacon:
 1)Open parkingSystem.ino in Arduino
 2)Compile and upload the code into your BLE device
 3)Open the Serial monitor
+
+Github Link: https://github.com/ohenquan/FYP
